@@ -1,11 +1,11 @@
 # Proyecto Bienal
-Proyecto para la sala temporal el Pabellon de Panamá que estubo en Venecia en el 2024
+Proyecto para la sala temporal el Pabellon de Panamá que estubo en Venecia en el 2024.
 Museo del Canal
-```Hecho con:
-```Angular 19.0.0
- ```Node 18.19.0
-```Leaflet 1.9.4
-```Swiper js 11.2.1
+Hecho con:
+Angular 19.0.0
+Node 18.19.0
+Leaflet 1.9.4
+Swiper js 11.2.1
 
 # CatalogoVenezia
 
