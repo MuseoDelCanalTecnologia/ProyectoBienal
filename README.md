@@ -1,6 +1,11 @@
+# Proyecto Bienal
+Proyecto para la sala temporal el Pabellon de Panamá que estubo en Venecia en el 2024
+Museo del Canal
+
 # CatalogoVenezia
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.3.
+
 
 ## Development server
 
